@@ -1,0 +1,21 @@
+Branch,City,Gender,Product_line,Sales,Rating,Payment
+A,Yangon,Female,Food and beverages,45.5,5.9,Ewallet
+B,Mandalay,Male,Electronic accessories,83.2,7.2,Cash
+C,Naypyitaw,Female,Home and lifestyle,72.1,8.1,Credit card
+A,Yangon,Male,Health and beauty,29.8,6.4,Cash
+B,Mandalay,Female,Food and beverages,64.3,7.5,Ewallet
+C,Naypyitaw,Male,Sports and travel,91.4,8.7,Credit card
+A,Yangon,Female,Electronic accessories,56.7,6.8,Ewallet
+B,Mandalay,Male,Home and lifestyle,38.9,5.6,Cash
+C,Naypyitaw,Female,Food and beverages,77.6,8.9,Credit card
+A,Yangon,Male,Sports and travel,68.2,7.9,Cash
+B,Mandalay,Female,Health and beauty,42.5,6.2,Ewallet
+C,Naypyitaw,Male,Electronic accessories,95.1,9.1,Credit card
+A,Yangon,Female,Home and lifestyle,51.3,7.0,Cash
+B,Mandalay,Male,Food and beverages,88.7,8.3,Ewallet
+C,Naypyitaw,Female,Sports and travel,73.4,7.6,Credit card
+A,Yangon,Male,Electronic accessories,61.9,6.7,Cash
+B,Mandalay,Female,Home and lifestyle,47.2,7.8,Ewallet
+C,Naypyitaw,Male,Health and beauty,35.6,6.1,Cash
+A,Yangon,Female,Food and beverages,82.3,8.6,Credit card
+B,Mandalay,Male,Sports and travel,59.8,7.4,Ewallet

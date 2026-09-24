@@ -1,0 +1,6 @@
+Total sales: 1265.50
+Average transaction: 63.27
+Average rating: 7.39
+Top product line: Food and beverages
+Top branch: C - Naypyitaw
+Top payment method: Credit card
